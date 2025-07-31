@@ -43,7 +43,7 @@ const Todos = () => {
 
   return (
     <div className="max-w-screen-xl mx-auto px-4 py-10">
-      <h2 className="text-4xl font-semibold text-center text-gray-800 dark:text-white mb-10 underline decoration-blue-500">
+      <h2 className="text-4xl font-semibold text-center text-gray-800 dark:text-white mb-10 ">
         Vazifalar Ro'yxati
       </h2>
 
